@@ -1,5 +1,6 @@
 # Athena-A-2ET-1.64_Community
 Athena-A 2ET V 1.64 - 2 stages electric ducted fan for static thrust - Community Edition - CERN-OHL-S (strongly reciprocal)
+https://ohwr.org/cern_ohl_s_v2.pdf
 
 This is the repository for the Community Edition Release of the legacy from Neva Aerospace Ltd (UK) for the Static Thrust Electric Ducted Fan (EDF) Athena.
 The Athena-A-2ET-V1.64 is a 2 stages contra-rotative elecric ducted fan optimised for static thrust (hovering) with maximum linear speed under 50kph (30mph).
