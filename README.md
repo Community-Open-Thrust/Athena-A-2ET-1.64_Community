@@ -6,7 +6,7 @@ Athena-A 2ET - 2 stages electric ducted fan for static thrust - Community Editio
 This is the repository for the Community Edition Release of the legacy to the community of makers from Neva Aerospace Ltd (UK) for the Athena Static Thrust Electric Ducted Fan (EDF) (Electric Turbine ) (Turbine électrique de poussée statique).
 The Athena-A-2ET- is a 2 stages contra-rotative elecric ducted fan optimised for static thrust (hovering) in atmospheric conditions with maximum linear speed under 50kph (30mph).
 
-The maximum thrust last checked in 2023 where between 3.7kgf to 4.1Kgf - depending on the make of the Athena with 6S motors and one-pass epoxy-coated PLA blades on the rotors.
+The maximum thrust last checked in 2023 where between 3.7kgf to 4.1Kgf - depending on the make of the Athena with 6S motors and epoxy-coated PLA blades on the rotors.
 
 
 # THE LICENSE IS CERN-OHL-S (Strongly Reciprocal) 
