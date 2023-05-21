@@ -1,4 +1,4 @@
-# Athena-A-2ET Electric Ducted Fan Community Edition
+# Athena-A-2ET Electric Ducted Fan (EDF) -  Community Edition
 Athena-A 2ET V 1.64 - 2 stages electric ducted fan for static thrust - Community Edition - CERN-OHL-S (strongly reciprocal)
 
 ![Athena_1-2ET-1 6x_Logo_BluePrint_Style](https://github.com/Community-Open-Thrust/Athena-A-2ET-1.64_Community/assets/24481026/f25e8278-5804-45ce-82c8-9657bbe37e58)
