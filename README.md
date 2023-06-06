@@ -19,5 +19,7 @@ Any further fork and/or modification must bear the following Notice as per chapt
 
 # About 3D Printing
 All 3D printed parts must be in Polycarbonate in order to sustain mechanical constraints and temperature.
+
 Only blades can be Printed in PLA with epoxy light coating.
+
 All rotors must be balanced after assembly before mounting to the turbine.
