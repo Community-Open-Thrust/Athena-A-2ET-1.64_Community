@@ -23,3 +23,9 @@ All 3D printed parts must be in Polycarbonate in order to sustain mechanical con
 Only blades can be Printed in PLA with epoxy light coating.
 
 All rotors must be balanced after assembly before mounting to the turbine.
+
+# About using this repository
+MAIN WILL NOT CHANGE.
+The main of repository will be locked to the initial commit to avoid losing information. 
+Please do create a new branch for a new version or create your own fork.
+Please check the branch for the last version of the project.
