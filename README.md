@@ -25,8 +25,8 @@ Only blades can be Printed in PLA with epoxy light coating.
 All rotors must be balanced after assembly before mounting to the turbine.
 
 # About using this repository
-MAIN WILL NOT CHANGE.
+This Main repository will not change.
 The main of repository will be locked to the initial commit to avoid losing information. 
 Please do create a new branch for a new version or create your own fork.
 Please check the branch for the early or the last version of the project.
-The Initial Commit Release date is 14th of July 2023 for the Athena-A-2ET-1.64 (known as Athena 1.64 )
+The Initial Commit Release date for the Main Repository is 7th of July 2023 and is for the Athena-A-2ET-1.64 (known as Athena 1.64 )
