@@ -29,3 +29,4 @@ MAIN WILL NOT CHANGE.
 The main of repository will be locked to the initial commit to avoid losing information. 
 Please do create a new branch for a new version or create your own fork.
 Please check the branch for the early or the last version of the project.
+The Initial Commit Release date is 14th of July 2023 for the Athena-A-2ET-1.64 (known as Athena 1.64 )
