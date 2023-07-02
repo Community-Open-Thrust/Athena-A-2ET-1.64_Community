@@ -27,7 +27,7 @@ All rotors must be balanced after assembly before mounting to the turbine.
 # About using this repository
 This Main repository will not change.
 
-The Initial Commit Release date for the Main Repository is 7th of July 2023 and is for the Athena-A-2ET-1.64 (known as Athena 1.64 )
+The Initial Commit Release date for the Main Repository is 30th of June 2023 and is for the Athena-A-2ET-1.64 (known as Athena 1.64 )
 
 The main of repository will be locked to the initial commit to avoid losing information.
 
